@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: dfd2c593012681349b18ca2c763aee41
+  - enabled: 1
+    path: Assets/Blacksmith.unity
+    guid: de30d9d4756f1a64ebba120a6e2e20f8
+  - enabled: 1
+    path: Assets/Deepspace.unity
+    guid: c69223b6d2e8d354fa67f4b8eaae176a
